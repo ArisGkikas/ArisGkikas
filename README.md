@@ -23,10 +23,10 @@ I’m currently working on my case study in Google Analytics Certificate. This s
  •**Sales Marketing Manager at pharmacy-shop.gr**  
   Managed sales and marketing strategies, driving increased revenue through targeted campaigns.
 
-  **Network Engineer at Hertz**  
+  •**Network Engineer at Hertz**  
   Provided network engineering support, maintaining and troubleshooting network infrastructures, ensuring secure and efficient data communication.
 
-  **IT Support in the Hellenic Army**  
+  •**IT Support in the Hellenic Army**  
   Provided IT support, managing hardware and software issues, and ensuring system functionality in a high-pressure environment.
 
 
