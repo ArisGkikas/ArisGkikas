@@ -14,13 +14,13 @@ I’m currently working on my case study in Google Analytics Certificate. This s
 
 ## 💼 Working Experience 
 
- **Digital Marketing Manager at ENIKEO Property Management**  
+ •**Digital Marketing Manager at ENIKEO Property Management**  
   Increased digital presence, website traffic, and lead generation through strategic content creation and marketing.
 
-**Freelance Digital Marketing Strategist**  
-  Developing and executing tailored digital marketing strategies for diverse clients, focusing on SEO, SEM, and social media marketing.
+•**Freelance Digital Marketing Strategist**  
+  Developing and executing tailored digital marketing strategies for diverse clients, focusing on SEO, SEM, and social media marketing•.
 
-  **Sales Marketing Manager at pharmacy-shop.gr**  
+ •**Sales Marketing Manager at pharmacy-shop.gr**  
   Managed sales and marketing strategies, driving increased revenue through targeted campaigns.
 
   **Network Engineer at Hertz**  
@@ -47,10 +47,13 @@ Despite my ability to analyze website traffic down to the last click, I still ma
 Languages: English fluent , French Fluent , Greek Native, Albanian Native
 
 ## 📈 Certifications
-Google Analytics Certificate ⌛
-Bsc Computer Science University of Derby 
-NCFE Computing level 3 
-IEK KSINI COMPUTING AND PROGRAMMING LEVEL 5
+•Google Analytics Certificate ⌛
+
+•Bsc Computer Science University of Derby 
+
+•NCFE Computing level 3 
+
+•IEK KSINI COMPUTING AND PROGRAMMING LEVEL 5
 
 
 ## 🌱 What I’m Currently Learning
